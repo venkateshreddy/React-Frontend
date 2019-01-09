@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X7 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="0.442236in" height="0.442362in" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 576 576"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil1 {fill:#104682}
+    .fil3 {fill:#1F66AE}
+    .fil2 {fill:#306AAE}
+    .fil5 {fill:#A7A7A7}
+    .fil6 {fill:#DEDEDE}
+    .fil0 {fill:white}
+    .fil4 {fill:#A7A7A7;fill-rule:nonzero}
+   ]]>
+  </style>
+    <mask id="id0">
+  <linearGradient id="id1" gradientUnits="userSpaceOnUse" x1="288.359" y1="82.6603" x2="288.359" y2="44.7437">
+   <stop offset="0" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </linearGradient>
+     <rect style="fill:url(#id1)" x="8" y="26" width="561.387" height="74.4224"/>
+    </mask>
+    <mask id="id2">
+  <linearGradient id="id3" gradientUnits="userSpaceOnUse" x1="105.281" y1="140.787" x2="105.281" y2="162.946">
+   <stop offset="0" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </linearGradient>
+     <rect style="fill:url(#id3)" x="25" y="120" width="160.294" height="64.456"/>
+    </mask>
+    <mask id="id4">
+  <linearGradient id="id5" gradientUnits="userSpaceOnUse" x1="295.859" y1="140.787" x2="295.859" y2="162.946">
+   <stop offset="0" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </linearGradient>
+     <rect style="fill:url(#id5)" x="216" y="120" width="160.294" height="64.456"/>
+    </mask>
+    <mask id="id6">
+  <linearGradient id="id7" gradientUnits="userSpaceOnUse" x1="481.045" y1="140.787" x2="481.045" y2="162.946">
+   <stop offset="0" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </linearGradient>
+     <rect style="fill:url(#id7)" x="408" y="120" width="146.706" height="64.456"/>
+    </mask>
+    <mask id="id8">
+  <linearGradient id="id9" gradientUnits="userSpaceOnUse" x1="105.281" y1="236.075" x2="105.281" y2="258.234">
+   <stop offset="0" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </linearGradient>
+     <rect style="fill:url(#id9)" x="25" y="215" width="160.294" height="64.456"/>
+    </mask>
+    <mask id="id10">
+  <linearGradient id="id11" gradientUnits="userSpaceOnUse" x1="105.281" y1="331.369" x2="105.281" y2="353.528">
+   <stop offset="0" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </linearGradient>
+     <rect style="fill:url(#id11)" x="25" y="310" width="160.294" height="64.4509"/>
+    </mask>
+    <mask id="id12">
+  <linearGradient id="id13" gradientUnits="userSpaceOnUse" x1="105.281" y1="426.658" x2="105.281" y2="448.817">
+   <stop offset="0" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </linearGradient>
+     <rect style="fill:url(#id13)" x="25" y="406" width="160.294" height="64.4509"/>
+    </mask>
+    <mask id="id14">
+  <linearGradient id="id15" gradientUnits="userSpaceOnUse" x1="105.281" y1="510.314" x2="105.281" y2="532.473">
+   <stop offset="0" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </linearGradient>
+     <rect style="fill:url(#id15)" x="25" y="489" width="160.294" height="64.4509"/>
+    </mask>
+    <mask id="id16">
+  <linearGradient id="id17" gradientUnits="userSpaceOnUse" x1="295.859" y1="236.075" x2="295.859" y2="258.234">
+   <stop offset="0" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </linearGradient>
+     <rect style="fill:url(#id17)" x="216" y="215" width="160.294" height="64.456"/>
+    </mask>
+    <mask id="id18">
+  <linearGradient id="id19" gradientUnits="userSpaceOnUse" x1="295.859" y1="331.369" x2="295.859" y2="353.528">
+   <stop offset="0" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </linearGradient>
+     <rect style="fill:url(#id19)" x="216" y="310" width="160.294" height="64.4509"/>
+    </mask>
+    <mask id="id20">
+  <linearGradient id="id21" gradientUnits="userSpaceOnUse" x1="295.859" y1="426.658" x2="295.859" y2="448.817">
+   <stop offset="0" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </linearGradient>
+     <rect style="fill:url(#id21)" x="216" y="406" width="160.294" height="64.4509"/>
+    </mask>
+    <mask id="id22">
+  <linearGradient id="id23" gradientUnits="userSpaceOnUse" x1="295.859" y1="510.314" x2="295.859" y2="532.473">
+   <stop offset="0" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </linearGradient>
+     <rect style="fill:url(#id23)" x="216" y="489" width="160.294" height="64.4509"/>
+    </mask>
+    <mask id="id24">
+  <linearGradient id="id25" gradientUnits="userSpaceOnUse" x1="481.045" y1="236.075" x2="481.045" y2="258.234">
+   <stop offset="0" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </linearGradient>
+     <rect style="fill:url(#id25)" x="408" y="215" width="146.706" height="64.456"/>
+    </mask>
+    <mask id="id26">
+  <linearGradient id="id27" gradientUnits="userSpaceOnUse" x1="481.045" y1="331.369" x2="481.045" y2="353.528">
+   <stop offset="0" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </linearGradient>
+     <rect style="fill:url(#id27)" x="408" y="310" width="146.706" height="64.4509"/>
+    </mask>
+    <mask id="id28">
+  <linearGradient id="id29" gradientUnits="userSpaceOnUse" x1="481.045" y1="426.658" x2="481.045" y2="448.817">
+   <stop offset="0" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </linearGradient>
+     <rect style="fill:url(#id29)" x="408" y="406" width="146.706" height="64.4509"/>
+    </mask>
+    <mask id="id30">
+  <linearGradient id="id31" gradientUnits="userSpaceOnUse" x1="481.045" y1="510.314" x2="481.045" y2="532.473">
+   <stop offset="0" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </linearGradient>
+     <rect style="fill:url(#id31)" x="408" y="489" width="146.706" height="64.4509"/>
+    </mask>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_3197723486192">
+   <polygon class="fil0" points="7,109 563,109 563,564 7,564 "/>
+   <polygon class="fil1" points="1,0 576,0 576,109 1,109 "/>
+   <polygon class="fil2" points="12,16 564,16 564,28 12,28 "/>
+   <polygon class="fil3" style="mask:url(#id0)" points="12,31 565,31 565,96 12,96 "/>
+   <path class="fil4" d="M6 102l564 0 6 0 0 7 0 461 0 6 -6 0 -564 0 -6 0 0 -6 0 -461 0 -7 6 0zm557 13l-550 0 0 449 550 0 0 -449z"/>
+   <polygon class="fil5" points="194,109 207,109 207,570 194,570 "/>
+   <polygon class="fil5" points="385,109 399,109 399,570 385,570 "/>
+   <polygon class="fil5" points="3,205 3,192 570,192 570,205 "/>
+   <polygon class="fil5" points="3,302 3,288 570,288 570,302 "/>
+   <polygon class="fil5" points="3,399 3,385 570,385 570,399 "/>
+   <polygon class="fil5" points="3,480 3,467 570,467 570,480 "/>
+   <polygon class="fil6" style="mask:url(#id2)" points="30,124 181,124 181,180 30,180 "/>
+   <polygon class="fil6" style="mask:url(#id4)" points="220,124 371,124 371,180 220,180 "/>
+   <polygon class="fil6" style="mask:url(#id6)" points="412,124 550,124 550,180 412,180 "/>
+   <polygon class="fil6" style="mask:url(#id8)" points="30,219 181,219 181,275 30,275 "/>
+   <polygon class="fil6" style="mask:url(#id10)" points="30,315 181,315 181,370 30,370 "/>
+   <polygon class="fil6" style="mask:url(#id12)" points="30,410 181,410 181,465 30,465 "/>
+   <polygon class="fil6" style="mask:url(#id14)" points="30,494 181,494 181,549 30,549 "/>
+   <polygon class="fil6" style="mask:url(#id16)" points="220,219 371,219 371,275 220,275 "/>
+   <polygon class="fil6" style="mask:url(#id18)" points="220,315 371,315 371,370 220,370 "/>
+   <polygon class="fil6" style="mask:url(#id20)" points="220,410 371,410 371,465 220,465 "/>
+   <polygon class="fil6" style="mask:url(#id22)" points="220,494 371,494 371,549 220,549 "/>
+   <polygon class="fil6" style="mask:url(#id24)" points="412,219 550,219 550,275 412,275 "/>
+   <polygon class="fil6" style="mask:url(#id26)" points="412,315 550,315 550,370 412,370 "/>
+   <polygon class="fil6" style="mask:url(#id28)" points="412,410 550,410 550,465 412,465 "/>
+   <polygon class="fil6" style="mask:url(#id30)" points="412,494 550,494 550,549 412,549 "/>
+  </g>
+ </g>
+</svg>

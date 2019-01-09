@@ -1,0 +1,17 @@
+.floating-label {
+	margin-bottom:5px !important;
+}
+#register-form .floating-input , #register-form .floating-select {
+	border:none !important;
+    border-bottom: 1px solid #d3d3d3 !important;    
+    padding: 0 10px;
+    padding-top: 15px !important;
+    color: #222;
+    height: 45px !important;
+	width: 100%;
+	font-size:11px;
+}
+.form-field-input, .form-field-input-error {
+	font-size:12px !important;
+}
+.has-error {border-color:#a94442;}

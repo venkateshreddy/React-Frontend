@@ -1,0 +1,58 @@
+body {
+    // font-family: Titillium Web,sans-serif;
+    line-height: 1;
+}
+.react-scrollbar-default .-reactjs-scrollbar-thumb {
+	background: #175d9d !important;
+	border-radius: 50px !important;
+	width: 9px !important;
+}
+.react-scrollbar-default .-reactjs-scrollbar-track {
+	background: #a1bdd7 !important;
+	width: 10px !important;
+}
+.react-scrollbar-default .-reactjs-scrollbar-track\:horizontal {
+	display: none;
+}
+.welcome-text{
+	padding: 15px 10px;
+	margin: 0;
+	font-size:13px;
+}
+.fa {
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+.b-right{
+	border-right:1px solid #d3d3d3;
+	padding-right: 10px;
+	position: relative;
+}
+.b-right i{
+	position: relative;
+}
+.notification-count{
+	background-color: #f1695e;
+    width: 18px;
+    height: 18px;
+    border-radius: 50%;
+    padding: 0px;
+    font-size: 11px;
+    color: #fff;
+    position: absolute;
+    top: -12px;
+    text-align: center;
+    right: 2px;
+}
+.s-input{
+	border: 1px solid #eaeaea;
+	margin-top: 8px;
+	border-radius: 5px;
+	padding: 8px 20px;
+	width: 250px;
+}
+

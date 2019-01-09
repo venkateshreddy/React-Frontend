@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X7 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="0.445236in" height="0.445236in" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 56 56"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#085A8A;stroke-width:0.377306}
+    .fil2 {fill:#F2F2F2}
+    .fil1 {fill:white}
+    .fil3 {fill:#3C7F9C;fill-rule:nonzero}
+    .fil0 {fill:url(#id0)}
+    .fil4 {fill:url(#id1)}
+   ]]>
+  </style>
+  <linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="21.1683" y1="54.8634" x2="34.8285" y2="1.1334">
+   <stop offset="0" style="stop-opacity:1; stop-color:#0E6BA1"/>
+   <stop offset="0.0784314" style="stop-opacity:1; stop-color:#1780BC"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#96E4F9"/>
+  </linearGradient>
+  <linearGradient id="id1" gradientUnits="userSpaceOnUse" x1="29.7275" y1="38.5897" x2="26.2693" y2="17.4071">
+   <stop offset="0" style="stop-opacity:1; stop-color:#4D4D4D"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:gray"/>
+  </linearGradient>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_3197799988864">
+   <path class="fil0 str0" d="M28 0c15,0 28,13 28,28 0,15 -13,28 -28,28 -15,0 -28,-13 -28,-28 0,-15 13,-28 28,-28z"/>
+   <path class="fil1" d="M28 2c5,0 9,1 13,4 -3,-2 -7,-3 -11,-3 -14,0 -26,10 -28,24 0,-14 12,-25 26,-25z"/>
+   <path class="fil2" d="M28 15c7,0 13,6 13,13 0,7 -6,13 -13,13 -7,0 -13,-6 -13,-13 0,-7 6,-13 13,-13z"/>
+   <path class="fil3" d="M28 14c4,0 7,2 10,4 2,3 4,6 4,10 0,4 -2,7 -4,10 -3,2 -6,4 -10,4 -4,0 -7,-2 -10,-4 -2,-3 -4,-6 -4,-10 0,-4 2,-7 4,-10 3,-2 6,-4 10,-4zm9 5c-2,-3 -5,-4 -9,-4 -4,0 -7,1 -9,4 -3,2 -4,5 -4,9 0,4 1,7 4,9 2,3 5,4 9,4 4,0 7,-1 9,-4 3,-2 4,-5 4,-9 0,-4 -1,-7 -4,-9z"/>
+   <path class="fil4" d="M28 17c6,0 11,5 11,11 0,6 -5,11 -11,11 -6,0 -11,-5 -11,-11 0,-6 5,-11 11,-11z"/>
+  </g>
+ </g>
+</svg>

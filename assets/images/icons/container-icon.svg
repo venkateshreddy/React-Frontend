@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X7 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="0.44224in" height="0.449874in" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 98 99"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil6 {fill:#71C285}
+    .fil4 {fill:#72543A}
+    .fil3 {fill:#AB9C89}
+    .fil2 {fill:#CCB297}
+    .fil5 {fill:#CEB69E}
+    .fil0 {fill:#E0C6A9}
+    .fil1 {fill:#FFECD7}
+    .fil7 {fill:white}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_3197720274320">
+   <polygon class="fil0" points="2,8 96,8 96,32 2,32 "/>
+   <polygon class="fil1" points="84,19 94,8 98,8 98,32 94,32 "/>
+   <polygon class="fil2" points="84,19 84,32 94,32 "/>
+   <polygon class="fil1" points="13,19 3,8 0,8 0,32 3,32 "/>
+   <polygon class="fil2" points="13,19 13,32 3,32 "/>
+   <path class="fil3" d="M91 99l-85 0c-3,0 -6,-3 -6,-6l0 -61 98 0 0 61c0,3 -3,6 -7,6z"/>
+   <path class="fil4" d="M34 45c0,3 -3,5 -5,5 -3,0 -5,-2 -5,-5 0,-2 2,-5 5,-5 2,0 5,3 5,5z"/>
+   <path class="fil4" d="M74 45c0,3 -2,5 -5,5 -3,0 -5,-2 -5,-5 0,-2 2,-5 5,-5 3,0 5,3 5,5z"/>
+   <path class="fil5" d="M49 77c-12,0 -22,-9 -22,-21l0 -11c0,-1 1,-1 2,-1 1,0 1,0 1,1l0 11c0,10 9,18 19,18 10,0 18,-8 18,-18l0 -11c0,-1 1,-1 2,-1 1,0 2,0 2,1l0 11c0,12 -10,21 -22,21z"/>
+   <path class="fil6" d="M62 13c0,8 -6,14 -13,14 -8,0 -14,-6 -14,-14 0,-7 6,-13 14,-13 7,0 13,6 13,13z"/>
+   <path class="fil7" d="M49 23c-1,0 -2,0 -2,-1l0 -17c0,-1 1,-2 2,-2 1,0 1,1 1,2l0 17c0,1 0,1 -1,1z"/>
+   <path class="fil7" d="M49 23c-1,0 -1,0 -1,0 -1,-1 -1,-2 0,-2l7 -8c1,0 2,0 2,0 1,1 1,2 0,3l-7 7c0,0 -1,0 -1,0z"/>
+   <path class="fil7" d="M49 23c-1,0 -1,0 -1,0l-8 -7c0,-1 0,-2 0,-3 1,0 2,0 3,0l7 8c1,0 1,1 0,2 0,0 -1,0 -1,0z"/>
+  </g>
+ </g>
+</svg>
